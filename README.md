@@ -1,4 +1,5 @@
 # Modbus TCP Industrial Power & Sensor Gateway Simulator
+![HMI Dashboard Preview](docs/images/dashboard_preview.png)
 
 A dual-tier Industrial IoT (IIoT) telemetry simulation that implements a 3-Phase Digital Power Meter over Modbus TCP, together with an active SCADA polling client featuring real-time scaling and alarm limits.
 
